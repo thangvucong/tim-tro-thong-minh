@@ -85,12 +85,12 @@ puppeteer.use(stealth);
         await popupPage.bringToFront();
 
         await popupPage.waitForSelector('input[type="email"]', { timeout: 10000 });
-        await popupPage.type('input[type="email"]', 'accvthang1');
+        await popupPage.type('input[type="email"]', process.env.GOOGLE_EMAIL);
         await popupPage.click('#identifierNext'); ``
 
         await popupPage.waitForNavigation({ waitUntil: 'load' });
         await popupPage.waitForSelector('input[type="password"]', { visible: true, hidden: false, });
-        await popupPage.type('input[type="password"]', 'Vucongthang1@');
+        await popupPage.type('input[type="password"]', process.env.GOOGLE_PASSWORD);
         await popupPage.click('#passwordNext');
 
         console.log('Google login successful.');
