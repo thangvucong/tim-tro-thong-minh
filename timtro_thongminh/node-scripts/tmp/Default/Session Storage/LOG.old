@@ -1,0 +1,31 @@
+2025/01/11-03:43:35.310 1f50 Reusing MANIFEST D:\Documents\HTKDTM\timtro_thongminh\node-scripts\tmp\Default\Session Storage/MANIFEST-000001
+2025/01/11-03:43:35.313 1f50 Recovering log #3401
+2025/01/11-03:43:35.314 1f50 Reusing old log D:\Documents\HTKDTM\timtro_thongminh\node-scripts\tmp\Default\Session Storage/003401.log 
+2025/01/11-03:43:42.360 12c8 Level-0 table #3406: started
+2025/01/11-03:43:42.370 12c8 Level-0 table #3406: 236561 bytes OK
+2025/01/11-03:43:42.373 12c8 Delete type=0 #3401
+2025/01/11-03:43:47.124 12c8 Level-0 table #3408: started
+2025/01/11-03:43:47.132 12c8 Level-0 table #3408: 237067 bytes OK
+2025/01/11-03:43:47.134 12c8 Delete type=0 #3405
+2025/01/11-03:43:52.138 12c8 Level-0 table #3410: started
+2025/01/11-03:43:52.146 12c8 Level-0 table #3410: 235902 bytes OK
+2025/01/11-03:43:52.149 12c8 Delete type=0 #3407
+2025/01/11-03:44:03.151 12c8 Level-0 table #3412: started
+2025/01/11-03:44:03.161 12c8 Level-0 table #3412: 236833 bytes OK
+2025/01/11-03:44:03.163 12c8 Delete type=0 #3409
+2025/01/11-03:44:03.169 12c8 Compacting 4@0 + 1@1 files
+2025/01/11-03:44:03.203 12c8 Generated table #3413@0: 595 keys, 2130586 bytes
+2025/01/11-03:44:03.218 12c8 Generated table #3414@0: 1222 keys, 730398 bytes
+2025/01/11-03:44:03.218 12c8 Compacted 4@0 + 1@1 files => 2860984 bytes
+2025/01/11-03:44:03.219 12c8 compacted to: files[ 0 2 8 18 0 0 0 ]
+2025/01/11-03:44:03.220 12c8 Delete type=2 #3403
+2025/01/11-03:44:03.220 12c8 Delete type=2 #3406
+2025/01/11-03:44:03.220 12c8 Delete type=2 #3408
+2025/01/11-03:44:03.220 12c8 Delete type=2 #3410
+2025/01/11-03:44:03.220 12c8 Delete type=2 #3412
+2025/01/11-03:44:07.532 12c8 Level-0 table #3416: started
+2025/01/11-03:44:07.540 12c8 Level-0 table #3416: 236738 bytes OK
+2025/01/11-03:44:07.543 12c8 Delete type=0 #3411
+2025/01/11-03:44:13.151 12c8 Level-0 table #3418: started
+2025/01/11-03:44:13.159 12c8 Level-0 table #3418: 236738 bytes OK
+2025/01/11-03:44:13.161 12c8 Delete type=0 #3415

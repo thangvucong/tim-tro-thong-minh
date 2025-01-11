@@ -1,0 +1,25 @@
+2025/01/11-12:05:57.722 9104 Reusing MANIFEST D:\Documents\HTKDTM\timtro_thongminh\node-scripts\tmp\Default\IndexedDB\https_www.chotot.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/01/11-12:05:57.727 9104 Recovering log #12017
+2025/01/11-12:05:57.727 9104 Reusing old log D:\Documents\HTKDTM\timtro_thongminh\node-scripts\tmp\Default\IndexedDB\https_www.chotot.com_0.indexeddb.leveldb/012017.log 
+2025/01/11-12:05:57.727 9104 Delete type=2 #12015
+2025/01/11-12:05:57.802 577c Level-0 table #12022: started
+2025/01/11-12:05:57.824 577c Level-0 table #12022: 3387 bytes OK
+2025/01/11-12:05:57.825 577c Delete type=0 #12017
+2025/01/11-12:05:57.825 9104 Manual compaction at level-0 from ' \x9b\x0d\x00\x00\x00' @ 72057594037927935 : 1 .. ' \x9c\x0d\x00\x00\x00' @ 0 : 0; will stop at ' \x9b\x0d\x00\x00\x05' @ 215619 : 1
+2025/01/11-12:05:57.826 9104 Compacting 1@0 + 1@1 files
+2025/01/11-12:05:57.830 9104 Generated table #12023@0: 872 keys, 11164 bytes
+2025/01/11-12:05:57.830 9104 Compacted 1@0 + 1@1 files => 11164 bytes
+2025/01/11-12:05:57.830 9104 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/01/11-12:05:57.831 9104 Delete type=2 #12022
+2025/01/11-12:05:57.831 9104 Manual compaction at level-0 from ' \x9b\x0d\x00\x00\x05' @ 215619 : 1 .. ' \x9c\x0d\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/11-12:05:59.436 92bc Level-0 table #12025: started
+2025/01/11-12:05:59.453 92bc Level-0 table #12025: 3232 bytes OK
+2025/01/11-12:05:59.454 92bc Delete type=2 #12019
+2025/01/11-12:05:59.454 92bc Delete type=0 #12021
+2025/01/11-12:05:59.455 92bc Manual compaction at level-0 from ' \x9c\x0d\x00\x00\x00' @ 72057594037927935 : 1 .. ' \x9d\x0d\x00\x00\x00' @ 0 : 0; will stop at ' \x9c\x0d\x00\x00\x05' @ 215664 : 1
+2025/01/11-12:05:59.455 92bc Compacting 1@0 + 1@1 files
+2025/01/11-12:05:59.461 92bc Generated table #12026@0: 871 keys, 11305 bytes
+2025/01/11-12:05:59.461 92bc Compacted 1@0 + 1@1 files => 11305 bytes
+2025/01/11-12:05:59.461 92bc compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/01/11-12:05:59.462 92bc Delete type=2 #12025
+2025/01/11-12:05:59.463 9104 Manual compaction at level-0 from ' \x9c\x0d\x00\x00\x05' @ 215664 : 1 .. ' \x9d\x0d\x00\x00\x00' @ 0 : 0; will stop at (end)
